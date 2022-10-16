@@ -1,5 +1,5 @@
 # ROCKETSEAT DESAFIOS 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 > Rocketseat Discover - Desafios
 
